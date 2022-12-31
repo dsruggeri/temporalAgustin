@@ -1,0 +1,32 @@
+body { 
+    font-family: 'Dosis', sans-serif;
+    background-image: url(../img/fondo.jpg);
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 10px auto;
+    font-family: 'Dosis';
+}
+
+.foto {
+    max-width: 55%;
+    margin: 10px auto;
+    display: block;
+}
+
+
+
+.oculto {
+   visibility: hidden;
+}
+
+
+#btncerrar:hover, .trash:hover, .edit:hover {
+    cursor: pointer;
+}
+
+.formulario {
+    background-color: rgba(49, 147, 216, 0.9);
+    padding: 5px;
+    color: white;
+}
