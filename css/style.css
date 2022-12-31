@@ -9,11 +9,14 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .foto {
-    max-width: 55%;
+    max-width: 65%;
     margin: 10px auto;
     display: block;
 }
 
+#boton-pista {
+    margin: 20px auto;
+}
 
 
 .oculto {
@@ -21,8 +24,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
-#btncerrar:hover, .trash:hover, .edit:hover {
-    cursor: pointer;
+.pista {
+    margin: 20px auto;
+    display: block;
 }
 
 .formulario {
